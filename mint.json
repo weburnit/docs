@@ -71,15 +71,15 @@
     {
       "group": "API Documentation",
       "pages": [
-        "api-reference/introduction"
+        "use-cases/introduction"
       ]
     },
     {
       "group": "Endpoint Examples",
       "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "use-cases/endpoint/get",
+        "use-cases/endpoint/create",
+        "use-cases/endpoint/delete"
       ]
     }
   ],
