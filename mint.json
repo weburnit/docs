@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "iGOT.ai - Your next generation of Team work",
+  "name": "Starter Kit",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -33,7 +33,7 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "iGOT.docs",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
     },
